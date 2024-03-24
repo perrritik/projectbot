@@ -2,9 +2,9 @@ import discord
 import random
 import requests
 from discord.ext import commands
-from hello import bad_words
-from hello import answer_words
-from hello import cat_images
+from variables import bad_words
+from variables import answer_words
+from variables import cat_images
 
 import gugu 
 
