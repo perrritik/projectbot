@@ -1,12 +1,11 @@
 import discord
 import random
-import requests
 from discord.ext import commands
 from variables import bad_words
 from variables import answer_words
 from variables import cat_images
 
-import gugu 
+
 
 intents = discord.Intents.all()
 intents.message_content = True
